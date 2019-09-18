@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React to create Bootcamp
+          Learn React to create Bootcamp and CREATE A START-UP!!!!
         </a>
       </header>
     </div>
