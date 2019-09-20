@@ -24,9 +24,4 @@ function App() {
 }
 
 export default App;
-sssssss
-dasss
-ss
-ss
-dsassss1234
-sss
+das
