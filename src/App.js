@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-const App = () => {
+const App = () => { // comment this right here..
     return (
         <div className="App">
             <header className="App-header">
@@ -16,7 +16,7 @@ const App = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Learn React
+                  Learn Reactdsads
                 </a>
             </header>
         </div>
