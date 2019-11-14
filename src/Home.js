@@ -6,6 +6,6 @@ const Home = () => {
             this is HOME page..
         </Fragment>
     );
-}
+}s
 
 export default Home;
