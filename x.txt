@@ -1,0 +1,10 @@
+usernames start with @
+no w3 only https://
+onboarding at first ever session
+twitch & mixer API login with different theme schemes for each
+only allow partners (big streamers) to create content
+allow collaborations - 2 or more streamers can co-create a collection of videos etc.
+'blitz' mode - happens suddenly and runs for a short period of time
+'ghost' mode - if stream => don't save video else if video => watch once only
+allow non partners to create requests and ask for content to specific creators
+build bootcamp ext. to allow viewers to request content from creators
