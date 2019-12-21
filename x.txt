@@ -1,10 +1,24 @@
 usernames start with @
 no w3 only https://
 onboarding at first ever session
-twitch & mixer API login with different theme schemes for each
+twitch & mixer API login with different color schemes for each
 only allow partners (big streamers) to create content
 allow collaborations - 2 or more streamers can co-create a collection of videos etc.
 'blitz' mode - happens suddenly and runs for a short period of time
 'ghost' mode - if stream => don't save video else if video => watch once only
-allow non partners to create requests and ask for content to specific creators
-build bootcamp ext. to allow viewers to request content from creators
+allow viewers to create requests and ask for content to specific creators specific content
+build bootcamp ext. to allow viewers to request content from creators via Twitch (maybe Mixer)
+make use of VR and VR Kits owned by players/gamers inside the Bootcamp app
+
+Frontend clean
+Backend Database complex
+Security HTTPS OAuth
+Cloud Systems Design/Architecture
+MVC design pattern
+Perform all CRUD ops
+Solve a problem/fill a need
+Have users, growth and revenue
+Business plan
+Elevator Pitch
+Investor Pitch Deck
+start-up big steps => frontend/backend/architecture/systemsdesign/team/companyLLC/partners/strategy/marketing/revenue/funding/positionToGetAcquired
