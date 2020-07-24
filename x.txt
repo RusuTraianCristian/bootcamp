@@ -22,3 +22,8 @@ Business plan
 Elevator Pitch
 Investor Pitch Deck
 start-up big steps => frontend/backend/architecture/systemsdesign/team/companyLLC/partners/strategy/marketing/revenue/funding/positionToGetAcquired
+
+tests with chai and mocha
+frontend with react redux and react-redux
+profiles and routes and links URLs with router
+state with hooks and useContext hook and with redux and redux hooks

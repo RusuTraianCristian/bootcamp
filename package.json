@@ -4,12 +4,18 @@
   "private": true,
   "dependencies": {
     "chai": "^4.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3",
     "mocha": "^6.2.2",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "morgan": "^1.10.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.1.1"
+    "react-scripts": "^3.4.1",
+    "redux": "^4.0.5"
   },
   "scripts": {
     "start": "react-scripts start",

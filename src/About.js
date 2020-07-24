@@ -7,5 +7,5 @@ const About = () => {
         </Fragment>
     );
 }
-
+    
 export default About;
