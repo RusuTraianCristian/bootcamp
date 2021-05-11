@@ -1,0 +1,76 @@
+:root {
+  --green: #1ba94c;
+  --darkgreen: #179643;
+  --darkergreen: #138d3e;
+  --darkestgreen: #108037;
+
+  --purple: #9686d5;
+  --darkpurple: #8b7bca;
+  --darkerpurple: #7f70bd;
+  --darkestpurple: #7768b4;
+
+  --obsidian: #19171c;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.logo {
+    width: 100%;
+    margin: 20px 0;
+    font-size: clamp(60px, 10vw + 20px, 150px);
+    line-height: clamp(55px, 8vw + 20px, 130px);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: var(--obsidian);
+    text-transform: capitalize;
+    font-weight: 400;
+    user-select: none;
+}
+
+.logo span {
+    color: #e2355b;
+}
+
+.piclogo {
+  background-image: url(./assets/logo.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 30px;
+  height: 60px;
+  margin: 0 auto
+}
+
+.twitch-login {
+    margin: 100px auto;
+    padding: 0 38px;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    user-select: none;
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid #f0f0f0;
+    box-shadow: 4px 4px 16px #d0d0d0;
+    outline: 0;
+    background: #fff;
+    color: var(--purple);
+    border-radius: 4px;
+    text-transform: capitalize;
+    transition: all .2s;
+    display: flex;
+}
+
+.twitch-login:hover {
+    color: var(--darkestpurple);
+}
+
+.twitch-login:focus {
+  background: var(--darkestpurple);
+  color: #f9f9f9;
+  border: 1px solid var(--purple);
+  box-shadow: 5px 5px 10px 0 var(--purple);
+  font-weight: 100;
+}
